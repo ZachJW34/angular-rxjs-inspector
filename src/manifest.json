@@ -1,0 +1,8 @@
+{
+  "name": "Angular RXJS",
+  "version": "1.0",
+  "description": "Build an Extension with Angular",
+  "manifest_version": 2,
+  "devtools_page": "index.html",
+  "content_security_policy": "script-src 'self' 'sha256-KNrdCg4wCXHu2rXp6Uo/GhXjFt1onxN+/6R9mQlXNOg='"  
+}
